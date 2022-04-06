@@ -21,3 +21,13 @@
   <li><a href="https://michael.pedroletti.ch">Site web</a></li>
   <li><a href="https://www.linkedin.com/in/michael-pedroletti-2aa219204">Linkedin</a></li>
 </ul>
+
+
+
+
+
+## 🎵 Spotify status
+
+<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
+  <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
+</a>
